@@ -42,7 +42,6 @@ THEN the saved events persist
 - days.js
 - Font Awesome
 - Google Fonts
-- Git
 - GitHub
 - VS Code
 - Terminal
