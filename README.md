@@ -61,5 +61,4 @@ The application ressembles a daily planner. The current day is displayed at the 
 
 ## The URL of the GitHub repository
 
-- link to the GitHub repository:
-# Work_Day_scheduler_mod5
+- link to the GitHub repository: git@github.com:mia2380/Work_Day_scheduler_mod5.git
