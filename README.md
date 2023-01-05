@@ -52,11 +52,12 @@ The application ressembles a daily planner. The current day is displayed at the 
 
 ## Screenshot of the application:
 
-- Screenshot:
+- Screenshot: ![image](https://user-images.githubusercontent.com/112995643/210675335-8dcb2e26-0495-4997-be34-b37b1051ea86.png)
 
-## The URL of the deployed application
 
-- The link to the deployed application:
+## The URL of the deployed application 
+
+- The link to the deployed application: https://mia2380.github.io/Work_Day_scheduler_mod5/
 
 ## The URL of the GitHub repository
 
